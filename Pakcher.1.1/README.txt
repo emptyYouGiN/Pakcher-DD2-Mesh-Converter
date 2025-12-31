@@ -1,7 +1,7 @@
 PAKCHER - DD2 Mesh Converter
 =========================================
 Author: emptyYouGiN
-Version: 1.0
+Version: 1.1
 
 DESCRIPTION
 -----------
@@ -55,4 +55,5 @@ Drag your modified folder onto Create-PAK-2024.
 Install the resulting .pak into your Mods folder with Fluffy mods
 ---------------
 - "Legacy operator not found": Ensure you have installed the addons in Blender correctly.
+
 - "Not a mesh file": You are trying to convert a .pak archive. Unpack it first.
